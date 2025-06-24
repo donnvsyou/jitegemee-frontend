@@ -48,9 +48,9 @@ const router = createRouter({
       component: LogIn,
     },
     {
-      path: '/studentlife',
-      name: 'studentlife',
-      component: StudentLife,
+      path: '/events',
+      name: 'events',
+      component: Events,
     },
     
     
